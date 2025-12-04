@@ -7,7 +7,7 @@
 - UI/UX Design and Prototyping (Figma)
 - Data Science & AI fundamentals
 
-💼 I love working on real-world projects and collaborating in teams. I’ve also been involved in campus organizations and projects that sharpen both my technical and soft skills.
+💼 I love working on real-world projects and collaborating in teams.
 
 🔗 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanaazizahnurhadi/)
