@@ -36,4 +36,4 @@ Here are some of the tools and languages I'm familiar with:
 
 ### 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citylighxts&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citylighxts&layout=compact&theme=radical&v=1)
