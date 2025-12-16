@@ -1,9 +1,10 @@
 ### Hi there, I'm Hana Azizah Nurhadi 👋
 
-🎓 I'm an Informatics graduate from Institut Teknologi Sepuluh Nopember (ITS), passionate about building impactful digital experiences and continuously learning in the world of technology.
+🎓 I'm an Informatics undergraduate from Institut Teknologi Sepuluh Nopember (ITS), passionate about building impactful digital experiences and continuously learning in the world of technology.
 
 🌱 I’m currently exploring:
 - Web development (React, Next.js)
+- iOS development (SwiftUI)
 - UI/UX Design and Prototyping (Figma)
 - Data Science & AI fundamentals
 
